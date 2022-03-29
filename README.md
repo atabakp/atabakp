@@ -1,10 +1,10 @@
 ### Hi there 👋
-<a href="https://chujiezheng.github.io/">
+<a href="https://atabakp.github.io/">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=atabakp&count_private=true&show_icons=true" />
 </a>  
 
 
-<a href="https://chujiezheng.github.io/">
+<a href="https://atabakp.github.io/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atabakp&hide=HTML,PostScript,JavaScript,Java,CSS&layout=compact" />
 </a>
 
